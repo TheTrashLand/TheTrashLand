@@ -1,8 +1,8 @@
 - Hi, I’m Trash!
 - I’m trying to learn coding to get into game development.
-- Or at least get somewhere.
+- Or robotics.
 - I want to learn: C++, JavaScript, and Python.
-- Tips are welcomed!
+- Just started!
 
 <!---
 TheTrashLand/TheTrashLand is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
